@@ -39,6 +39,10 @@ h1 {
     padding-left: 1rem;
     width: 100%;
   }
+  input:focus {
+    background-color: #fce5d8;
+    color: #2c1338;
+  }
 }
 
 .password {
